@@ -1,0 +1,29 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+p{
+  color: rgb(223, 100, 168);
+}
+
+.note{
+  font-size: 90px;
+}
+#id-selector-demo{
+  color: rgb(43, 138, 56);
+}
+li[value="4"] {
+  color: rgb(126, 16, 190);
+  font-size: ;
+}
+*{
+  text-align: center;
+}
+h1{
+  font-size: 150px;
+}
+h2{
+  font-size: 110px;
+}
